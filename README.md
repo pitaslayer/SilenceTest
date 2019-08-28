@@ -17,3 +17,8 @@ Game Object Logic
  Script.txt
  - Customize the contents of the script
  - Each sentence should be separated by new line
+
+Unity Version 2019.1.12f1
+.NET 4.0
+Backend Scripting Mono
+Api Compatibility Level .Net Standard 2.0
