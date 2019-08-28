@@ -3,7 +3,7 @@
 Customization
 
 Game Object Logic
- - Customize the silence waiting
+ - Customize the silence waiting time
  - Sentence to show when the script is over
  
  Game Object Voice Silence Detection
